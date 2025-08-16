@@ -1,0 +1,62 @@
+[
+  {
+    "id": "placa_12_240",
+    "nombre": "Placa 12.5mm 1.20x2.40",
+    "categoria": "placa",
+    "largo_mm": 2400,
+    "ancho_mm": 1200,
+    "espesor_mm": 12.5,
+    "unidad": "pieza",
+    "desperdicio_pct": 10
+  },
+  {
+    "id": "placa_rh_12_240",
+    "nombre": "Placa RH 12.5mm 1.20x2.40",
+    "categoria": "placa",
+    "largo_mm": 2400,
+    "ancho_mm": 1200,
+    "espesor_mm": 12.5,
+    "unidad": "pieza",
+    "desperdicio_pct": 10
+  },
+  {
+    "id": "montante_70_260",
+    "nombre": "Montante C 70 x 35 x 0.5 (2.60m)",
+    "categoria": "perfil",
+    "largo_mm": 2600,
+    "unidad": "pieza",
+    "desperdicio_pct": 8
+  },
+  {
+    "id": "solera_70_260",
+    "nombre": "Solera U 70 x 25 x 0.5 (2.60m)",
+    "categoria": "perfil",
+    "largo_mm": 2600,
+    "unidad": "pieza",
+    "desperdicio_pct": 8
+  },
+  {
+    "id": "tornillo_tn25_1000",
+    "nombre": "Tornillo TN 25 (caja x1000)",
+    "categoria": "tornillo",
+    "unidad": "caja",
+    "piezas_por_caja": 1000,
+    "desperdicio_pct": 0
+  },
+  {
+    "id": "masilla_20kg",
+    "nombre": "Masilla en polvo 20kg",
+    "categoria": "compuesto",
+    "unidad": "kg",
+    "cobertura_m2": 35,
+    "desperdicio_pct": 10
+  },
+  {
+    "id": "cinta_90m2",
+    "nombre": "Cinta papel (rollo)",
+    "categoria": "cinta",
+    "unidad": "pieza",
+    "cobertura_m2": 90,
+    "desperdicio_pct": 5
+  }
+]
