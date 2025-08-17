@@ -1,4 +1,5 @@
-Aquí tienes una versión más profesional del README para tu proyecto en GitHub:
+<img width="638" height="411" alt="Captura de pantalla 2025-08-17 024547" src="https://github.com/user-attachments/assets/c95edc6d-40cf-44c7-8c5c-ab7de7c5eb9d" />
+
 
 # 📐 DryCalc
 
